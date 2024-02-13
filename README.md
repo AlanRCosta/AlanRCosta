@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f917.gif" height="30px">, I'm Alan Costa</h1>
 
-- 🔭 I’m currently working at  <a href="https://www.prontmed.com/" target="_blank"> <img align="center" src="https://www.prontmed.com/wp-content/uploads/2022/05/prontmed-dark.svg" alt="prontmed" height="20px"/></a>
+- 🔭 I am currently studying and participating in bootcamps.
 
 - 💬 Ask me about: **React, JavaScript, Typescript, HTML, CSS**
 
