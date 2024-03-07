@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f917.gif" height="30px">, I'm Alan Costa</h1>
 
-- 🔭 I am currently studying and participating in bootcamps.
-
 - 💬 Ask me about: **React, JavaScript, Typescript, HTML, CSS**
 
 - 👯 I’m looking to share knowledge and collaborate with new devs!
